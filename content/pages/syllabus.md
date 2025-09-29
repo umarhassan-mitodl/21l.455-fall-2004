@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, criteria for HASS-CI subjects, grading, and policies on attendance,
   late papers, rewrites, and plagiarism.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -144,4 +146,4 @@ The highest grade that a rewritten response may receive is a B+. A prior draft 
 Plagiarism Policy
 -----------------
 
-Full acknowledgement for all information obtained from sources outside the classroom needs to be clearly stated. All ideas, arguments, and direct phrasings taken from someone else's work need to be identified and properly footnoted. Quotations from other sources should be clearly marked as distinct from the student's own work and should follow the proper citational conventions. For further guidance in determining proper forms of attribution, see the {{% resource_link "34e43dfc-0c6a-4c1f-8f28-852fea60ebaf" "MIT Website on Plagiarism" %}}.
+Full acknowledgement for all information obtained from sources outside the classroom needs to be clearly stated. All ideas, arguments, and direct phrasings taken from someone else's work need to be identified and properly footnoted. Quotations from other sources should be clearly marked as distinct from the student's own work and should follow the proper citational conventions. For further guidance in determining proper forms of attribution, see the [MIT Website on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).

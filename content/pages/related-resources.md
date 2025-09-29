@@ -11,172 +11,172 @@ uid: b79d1611-3f76-742e-7d0b-f32bb2138636
 
 ### Classical Literature
 
-{{% resource_link "3d10700e-6983-4aba-8da0-7b5c04c41813" "The Internet Classics Archive" %}}
+[The Internet Classics Archive](http://classics.mit.edu/index.html)
 
-{{% resource_link "c52ae661-3114-4eaa-99bc-10d534fc34ba" "Perseus Digital Library" %}}
+[Perseus Digital Library](http://www.perseus.tufts.edu/)
 
-{{% resource_link "95cae813-b86c-4e9a-88c6-8cc365108fdd" "Project Libellus" %}}
+[Project Libellus](http://www.hhhh.org/perseant/libellus/)
 
-{{% resource_link "0b6da084-5f30-4bd1-ac21-71047194c161" "Bibliotheca Augustana" %}}
+[Bibliotheca Augustana](http://www.fh-augsburg.de/~harsch/augustana.html)
 
-{{% resource_link "a658c0d5-6057-4964-b085-1af9268b9d89" "Electronic Text Center, University of Virginia" %}}
+[Electronic Text Center, University of Virginia](https://archives.lib.virginia.edu/repositories/uva-sc/resources/university_of_virginia_electronic_text_center_reco)
 
-{{% resource_link "673467ea-0f6b-4769-8f26-8c989428571f" "Forum Romanum" %}}
+[Forum Romanum](http://www.forumromanum.org/)
 
-{{% resource_link "c7183ebc-c3ee-4945-b5d9-b62f0110764d" "Society for Late Antiquity" %}}
+[Society for Late Antiquity](https://web.archive.org/web/20090120175304/http://www.sc.edu/ltantsoc/)
 
-{{% resource_link "1fe188d6-1eca-4b27-a149-7b7e7d374a64" "Ancient World Web" %}}
+[Ancient World Web](http://www.julen.net/ancient/)
 
 ### Bible and Patristic Sources
 
-{{% resource_link "9b7bfbb7-2341-4c45-affd-a674d0433f0c" "King James Translation: The Electronic Text Center, University of Virginia" %}}
+[King James Translation: The Electronic Text Center, University of Virginia](http://etext.lib.virginia.edu/kjv.browse.html)
 
-{{% resource_link "41113bec-006c-48fa-b6a0-bc053f1b5fa7" "Latin Vulgate Bible: ARTFL Project" %}}
+[Latin Vulgate Bible: ARTFL Project](http://www.lib.uchicago.edu/efts/ARTFL/public/bibles/vulgate.search.html)
 
-{{% resource_link "c69e173d-8bfa-449c-8f5c-db1ba31c5e94" "Resource Pages for Biblical Studies" %}}
+[Resource Pages for Biblical Studies](http://www.torreys.org/bible/)
 
-{{% resource_link "1483623d-a23e-478b-8125-f4c01c151086" "Christian Classics Ethereal Library" %}}
+[Christian Classics Ethereal Library](http://www.ccel.org/)
 
-{{% resource_link "0b6da084-5f30-4bd1-ac21-71047194c161" "Bibliotheca Augustana" %}}
+[Bibliotheca Augustana](http://www.fh-augsburg.de/~harsch/augustana.html)
 
-{{% resource_link "a658c0d5-6057-4964-b085-1af9268b9d89" "Electronic Text Center, University of Virginia" %}}
+[Electronic Text Center, University of Virginia](https://archives.lib.virginia.edu/repositories/uva-sc/resources/university_of_virginia_electronic_text_center_reco)
 
 ### Medieval Resources - General
 
-{{% resource_link "7dbdb472-5fbd-4aeb-bc8f-476a0e3d048c" "Internet Medieval Sourcebook" %}}
+[Internet Medieval Sourcebook](http://www.fordham.edu/halsall/sbook.html)
 
-{{% resource_link "407563b1-5479-4e14-8d9d-07b4ad7db1d5" "On-line Medieval and Classical Library" %}}
+[On-line Medieval and Classical Library](http://omacl.org/)
 
-{{% resource_link "d1f727ea-5494-4b4c-8f97-9013358f61fa" "Labyrinth" %}}
+[Labyrinth](https://blogs.commons.georgetown.edu/labyrinth/categories/home/about-the-labyrinth/)
 
-{{% resource_link "97826ec6-c778-44b6-bd95-496f264c694c" "Columbia Electronic Text Service" %}}
+[Columbia Electronic Text Service](http://www.columbia.edu/cu/lweb/indiv/ets/offsite.subject.html#medieval)
 
-{{% resource_link "077eb26b-6d00-4021-b457-b27287cb40a6" "Grover Furr's Medieval Literature and History Page" %}}
+[Grover Furr's Medieval Literature and History Page](http://www.chss.montclair.edu/english/furr/medieval.html)
 
-{{% resource_link "d331105e-553f-40c1-8154-685a4dd70a46" "Eurodocs" %}}
+[Eurodocs](http://www.lib.byu.edu/~rdh/eurodocs/homepage.html)
 
-{{% resource_link "09b45e93-e27d-48d1-9c3f-f8500f042c2a" "Luminarium" %}}
+[Luminarium](http://www.luminarium.org/lumina.htm)
 
-{{% resource_link "1239d58e-669e-44a6-97c8-5425b9aa594d" "Project Gutenberg" %}}
+[Project Gutenberg](http://www.gutenberg.org/)
 
-{{% resource_link "8fc28720-c9cd-4011-8b57-3b519f9216b5" "Society for Medieval Feminist Scholarship" %}}
+[Society for Medieval Feminist Scholarship](http://smfsweb.org/)
 
-{{% resource_link "8d3b99c2-e1a1-4c31-966b-7bd94192871a" "Feminae: Medieval Women and Gender Index" %}}
+[Feminae: Medieval Women and Gender Index](https://inpress.lib.uiowa.edu/feminae/WhatIsFeminae.aspx)
 
-{{% resource_link "f97a32a8-0db2-49a8-b17f-7a440b37a96d" "Early Manuscripts at Oxford" %}}
+[Early Manuscripts at Oxford](http://image.ox.ac.uk/)
 
-{{% resource_link "0b6da084-5f30-4bd1-ac21-71047194c161" "Bibliotheca Augustana" %}}
+[Bibliotheca Augustana](http://www.fh-augsburg.de/~harsch/augustana.html)
 
 ### Major Medieval Authors
 
 Geoffrey Chaucer
 
-{{% resource_link "039f3fc1-4d72-4ece-9e75-ac89ca7ce45a" "The Geoffrey Chaucer Website Homepage" %}}
+[The Geoffrey Chaucer Website Homepage](https://chaucer.fas.harvard.edu/)
 
-{{% resource_link "6ad728bc-eeaa-4078-b154-81ca7a228483" "Geoffrey Chaucer. Org" %}}
+[Geoffrey Chaucer. Org](http://chaucer.org.uk/)
 
-{{% resource_link "71656413-52d3-412a-baa4-cb54794fcd4e" "The Electronic Canterbury Tales Project" %}}
+[The Electronic Canterbury Tales Project](http://hosting.uaa.alaska.edu/afdtk/ECT_Main.htm)
 
 William Langland
 
-{{% resource_link "bc0be3b9-42bf-428f-9c7d-0dc127f29a6a" "The Piers Plowman Electronic Archive" %}}
+[The Piers Plowman Electronic Archive](http://piers.chass.ncsu.edu/)
 
-{{% resource_link "b7d130e0-141f-4d6d-ae88-fe7b69e5b646" "The William Langland Homepage" %}}
+[The William Langland Homepage](http://web.archive.org/web/20011216230127/www.english.upenn.edu/~lwarner/piers.html/)
 
 Robin Hood Ballads
 
-{{% resource_link "8a4bf2d1-a2c4-405a-b110-2c7e5cb245b4" "The Robin Hood Project" %}}
+[The Robin Hood Project](http://www.lib.rochester.edu/camelot/rh/rhhome.stm)
 
 Dante Alighieri
 
-{{% resource_link "9cea36fb-90af-4d3e-b4d1-0663b3980ddf" "Digital Dante Project" %}}
+[Digital Dante Project](http://dante.ilt.columbia.edu/)
 
-{{% resource_link "8ae2a4a2-c5dc-4c92-82b2-ca3975107dff" "Dante Online" %}}
+[Dante Online](http://www.danteonline.it/italiano/home_ita.asp)
 
-{{% resource_link "1843de39-39c7-4a55-ba9b-60cf39811c05" "Dante Studies" %}}
+[Dante Studies](https://www.dantesociety.org/publications/dante-studies)
 
-{{% resource_link "b790c9cf-d40b-498a-bdd5-c618b4df1273" "Dante Alighieri on the Web" %}}
+[Dante Alighieri on the Web](http://www.greatdante.net/)
 
 Giovanni Boccaccio
 
-{{% resource_link "05cdb10e-c1b9-466e-bce6-bfd204bd4be4" "Decameron Web" %}}
+[Decameron Web](http://www.brown.edu/Research/Decameron/)
 
 ### Arthurian Literature
 
-{{% resource_link "fe7aa682-136b-4b2d-ac8d-2a403317edff" "The Camelot Project" %}}
+[The Camelot Project](http://www.lib.rochester.edu/camelot/cphome.stm)
 
 ### Chrétien de Troyes
 
-{{% resource_link "b38e6bc7-f3f2-4269-a011-aa29cd07453d" "The Charette Project" %}}
+[The Charette Project](http://www.princeton.edu/~lancelot/)
 
 ### Medieval English
 
-{{% resource_link "b7c16ca8-c9bf-4e11-8f27-8e3d292d95f3" "TEAMS Middle English Texts" %}}
+[TEAMS Middle English Texts](http://www.lib.rochester.edu/camelot/teams/tmsmenu.htm)
 
-{{% resource_link "22b75d1e-ec2b-4035-bb80-ba250edb8f61" "Corpus of Middle English Prose and Verse" %}}
+[Corpus of Middle English Prose and Verse](http://quod.lib.umich.edu/c/cme/)
 
 ### Medieval French
 
-{{% resource_link "d1f727ea-5494-4b4c-8f97-9013358f61fa" "Labyrinth" %}}
+[Labyrinth](https://blogs.commons.georgetown.edu/labyrinth/categories/home/about-the-labyrinth/)
 
-{{% resource_link "410e7c1c-a892-4d95-9a89-ee215d1120e8" "ARTFL Project" %}}
+[ARTFL Project](https://artfl-project.uchicago.edu/)
 
-{{% resource_link "454945ff-7f96-49f1-be06-ec9f7b36ee4d" "ARTFL Project - Textes de Français Ancien" %}}
+[ARTFL Project - Textes de Français Ancien](http://www.lib.uchicago.edu/efts/ARTFL/projects/TLA/)
 
-{{% resource_link "8750c01a-e97e-48f5-a4df-29af59e3c12d" "Bibliothèque Nationale de France - The Age of Charles V" %}}
+[Bibliothèque Nationale de France - The Age of Charles V](http://www.bnf.fr/fr/acc/x.accueil.html)
 
-{{% resource_link "80a549a1-1be7-4b83-993b-ade20f58750b" "Bibliotheca Augustana" %}}
+[Bibliotheca Augustana](http://www.fh-augsburg.de/~harsch/augustana.html#fr)
 
 ### Medieval Latin
 
-{{% resource_link "1483623d-a23e-478b-8125-f4c01c151086" "Christian Classics Ethereal Library" %}}
+[Christian Classics Ethereal Library](http://www.ccel.org/)
 
-{{% resource_link "0b6da084-5f30-4bd1-ac21-71047194c161" "Bibliotheca Augustana" %}}
+[Bibliotheca Augustana](http://www.fh-augsburg.de/~harsch/augustana.html)
 
-{{% resource_link "95cae813-b86c-4e9a-88c6-8cc365108fdd" "Project Libellus" %}}
+[Project Libellus](http://www.hhhh.org/perseant/libellus/)
 
-{{% resource_link "a658c0d5-6057-4964-b085-1af9268b9d89" "Electronic Text Center, University of Virginia" %}}
+[Electronic Text Center, University of Virginia](https://archives.lib.virginia.edu/repositories/uva-sc/resources/university_of_virginia_electronic_text_center_reco)
 
-{{% resource_link "733ed971-7c60-4632-8e3d-b9b440af25ba" "Forum Romanum: Corpus Scriptorum Latinorum" %}}
+[Forum Romanum: Corpus Scriptorum Latinorum](http://www.forumromanum.org/literature/index.html)
 
 ### Secondary Sources
 
-{{% resource_link "fe686a61-99e4-4c17-be36-e9f2c4d2809e" "Speculum" %}}
+[Speculum](https://www.medievalacademy.org/page/Forthcoming)
 
-{{% resource_link "c21471dd-ae6d-42a0-a602-2c7f4a5614b2" "The Chaucer Review" %}}
+[The Chaucer Review](http://www.psupress.org/journals/jnls_chaucer.html)
 
-{{% resource_link "699619bd-4995-447b-a78f-9a5016fdf3e0" "Essays in Medieval Studies" %}}
+[Essays in Medieval Studies](http://www.luc.edu/publications/medieval/)
 
-{{% resource_link "2d211c39-b5a0-48b0-881d-ed2d7f71ff00" "Exemplaria" %}}
+[Exemplaria](http://www.english.ufl.edu/exemplaria/)
 
-{{% resource_link "6525ed96-e74e-46c2-9450-e50dd895a647" "Journal of Medieval and Early Modern Studies" %}}
+[Journal of Medieval and Early Modern Studies](https://www.dukeupress.edu/journal-of-medieval-and-early-modern-studies)
 
-{{% resource_link "fc9831e5-14ec-4287-9f13-4dfa186f7081" "Classical Philology" %}}
+[Classical Philology](http://classics.fas.harvard.edu/classical-philology)
 
-{{% resource_link "e812aa5e-d0c6-4d7d-bc34-d6db8ef240d2" "Classical Quarterly" %}}
+[Classical Quarterly](http://www.oxfordjournals.org/our_journals/clquaj/access_purchase/price_list.html)
 
-{{% resource_link "b59e2a33-3d0b-43c8-a5b2-68dff3b8ec27" "Classical Review" %}}
+[Classical Review](http://www.jstor.org/journals/0009840x.html)
 
-{{% resource_link "4599a339-8cb0-40d6-86a1-5eb80ec7b3e0" "Diacritics" %}}
+[Diacritics](http://www.press.jhu.edu/journals/diacritics/index.html)
 
-{{% resource_link "577eef9f-c401-46d3-aa09-d7b7ba812fc2" "ELH" %}}
+[ELH](https://www.press.jhu.edu/journals/elh)
 
 Greece and Rome
 
-{{% resource_link "8d755ec0-fc9a-4ba7-963b-243ca93dde61" "Harvard Studies in Classical Philology" %}}
+[Harvard Studies in Classical Philology](http://www.fas.harvard.edu/~classics/programs/graduate.html#Classical_Philology)
 
-{{% resource_link "c12b566a-8c1b-4915-92f0-e012fae00f43" "Hesperia" %}}
+[Hesperia](http://www.ascsa.edu.gr/index.php/publications/hesperia)
 
-{{% resource_link "b8f4095e-cb37-44a6-ba41-242ea0a30658" "Journal of Hellenic Studies" %}}
+[Journal of Hellenic Studies](http://www.jstor.org/journals/00754269.html)
 
-{{% resource_link "fbb0e22e-a87d-44e6-be16-da6fa43c29cb" "MLN" %}}
+[MLN](http://www.press.jhu.edu/journals/modern_language_notes/index.html)
 
-{{% resource_link "ea209f21-d812-4ee5-8606-37e22508a6c3" "PMLA" %}}
+[PMLA](http://www.mla.org/publications/pmla)
 
 Representations
 
-{{% resource_link "079a0985-4cff-48c0-8bb1-aeeea46e095f" "Social Text" %}}
+[Social Text](https://read.dukeupress.edu/social-text)
 
-{{% resource_link "e2d06c2c-81dc-4ead-bb9e-86f5c7b7ef69" "Yale French Studies" %}}
+[Yale French Studies](http://yalepress.yale.edu/yupbooks/SeriesPage.asp?Series=99)
 
-{{% resource_link "0b98cbc1-26b7-462a-b485-ad9494f79161" "Yale Journal of Criticism" %}}
+[Yale Journal of Criticism](http://muse.jhu.edu/journals/yale_journal_of_criticism/toc/yale16.1.html)
