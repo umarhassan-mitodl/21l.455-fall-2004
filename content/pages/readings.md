@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the list of required texts for the course and the
   schedule of readings by class session.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -27,7 +25,7 @@ Ovid. *The Love Poems.* Translated by A. D. Melville. Oxford and New York: Oxfor
 
 –––. *The Metamorphoses.* Translated by Horace Gregory. New York: Mentor, 1960.
 
-Editions of Horace and Virgil available through the [Perseus Digital Library](http://www.perseus.tufts.edu/).
+Editions of Horace and Virgil available through the {{% resource_link "f5123227-523b-4c18-89dc-86eef4883d74" "Perseus Digital Library" %}}.
 
 BBC Television. *I, Claudius.* British Broadcasting Company, 1976. (Video, dvd)
 
@@ -127,7 +125,7 @@ Strategies of Accommodation
 
 Horace. *Satires.* Book I.
 
-(Text available [on-line](https://www.perseus.tufts.edu/hopper/text?doc=Hor.+S.+1.1&fromdoc=Perseus%3Atext%3A1999.02.0063) through the Perseus Project.)
+(Text available {{% resource_link "ad8ef997-5a87-461f-b87b-1e783275ef2c" "on-line" %}} through the Perseus Project.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -139,7 +137,7 @@ Horace. *Odes.* (Book I. i, ii, vi, ix, xi, xii, xxii, xxiii, xxiv, xxxvii, xxxv
 
 *Ars Poetica*.
 
-(Text available [on-line](http://www.perseus.tufts.edu/hopper/collection?collection=Perseus%3Acorpus%3Aperseus%2Cwork%2CHorace%2CArs%20Poetica) through the Perseus Project.)
+(Text available {{% resource_link "6bc76767-10c5-4bc2-a1e6-76a64b9fbcec" "on-line" %}} through the Perseus Project.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -155,7 +153,7 @@ The Politics of Pastoral
 
 Virgil. *Eclogues*.
 
-(Text available [on-line](https://www.perseus.tufts.edu/hopper/text?doc=Verg.+Ecl.+1&fromdoc=Perseus%3Atext%3A1999.02.0057) through the Perseus Project.)
+(Text available {{% resource_link "1c5aa3db-5444-4646-9335-38638d9ade4a" "on-line" %}} through the Perseus Project.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
